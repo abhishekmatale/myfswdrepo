@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Table</title>
+</head>
+<body>
+    <table id="table" border="1" >
+        <tr>
+            <th>Name</th>
+            <th>Logo</th>
+            <th>desc</th>
+        </tr>
+    </table>
+    <script>
+        fetch('companyData.json')
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+             var len = data.length;
+             var txt = "";
+                if(len > 0){
+                    var table = document.getElementById("table");
+                    for(var i=0;i<len;i++){
+                        if(data[i].company_name && data[i].img_src && data[i].about ){
+                            var row = table.insertRow(i+1);
+                            var cell1 = row.insertCell(0);
+                            var cell2 = row.insertCell(1);
+                            var cell3 = row.insertCell(2);
+                            cell1.innerHTML = data[i].company_name;
+                            cell2.innerHTML = "<img style='width:50px;' src='"+data[i].img_src+"'></img>";
+                            cell3.innerHTML = data[i].about;
+                        }
+                    }
+                   
+                }   
+        }
+    </script>
+</body>
+</html>
