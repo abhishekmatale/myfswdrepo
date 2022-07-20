@@ -1,0 +1,57 @@
+[
+    {
+		"company_name": "Microsoft Corporation",
+		"img_src": "https://pbs.twimg.com/profile_images/1454912483248930822/_hO4WPRC_400x400.png",
+		"about": "Microsoft Corporation, based in Redmond, Washington, is among the world's biggest corporations and ranks first on a list of the Top 10 IT Companies. Microsoft Windows, Microsoft Office, and Internet Explorer, among other products, are used by nearly every business and professional around the world. Microsoft was established in 1975, by Bill Gates and Paul Allen"
+	},
+	{
+		"company_name": "IBM",
+		"img_src": "https://pbs.twimg.com/profile_images/1493917890059325444/LlsYYjRu_400x400.jpg",
+		"about": "International Business Machines abbreviated as IBM. This is an American multinational company that operates in over 150 countries. The firm began as a computer recording firm before being called IBM (International Business Machines) in 1924. IBM's headquarters are in Armonk, Future York"
+	},
+	{
+		"company_name": "Accenture",
+		"img_src": "https://pbs.twimg.com/profile_images/1526951216995094528/ixjMVxIr_400x400.jpg",
+		"about": "Accenture is one of the major Information Technology (IT) businesses and is included in the Fortune Global 500. It is a multinational management consulting business that offers professional services such as strategies, consultancy, technologies, and operation."
+	},
+	{
+		"company_name": "Oracle",
+		"img_src": "https://pbs.twimg.com/profile_images/1531767258015354880/Q4m8sRBR_400x400.png",
+		"about": "Oracle Corporation, one of the top 10 IT companies in the world, is headquartered in Redwood Shores, California, is a well-known American multinational company. With a workforce of around 130,000, Oracle has the second largest revenue in the software development industry after Microsoft."
+	},
+	{
+		"company_name": "SAP",
+		"img_src": "https://pbs.twimg.com/profile_images/1544319627014062081/TzgAu0CJ_400x400.jpg",
+		"about": "SAP has effectively established itself as the global leader in corporate application areas of software and software-related operations. SAP is the third biggest software firm by market value, with more than 88,000 professionals in much more than 130 countries. SAP has about 380,000 clients in far more than 170 countries."
+	},
+	{
+		"company_name": "TCS - Tata Consultancy Services",
+		"img_src": "https://pbs.twimg.com/profile_images/1542758734501654528/nzNTx_7V_400x400.jpg",
+		"about": "Tata Consultancy Services which is abbreviated as TCS. This MNC has been named as one of the leading Indian Multinational Information Technology Corporation, with income generated across multiple areas. TCSs headquarters are in Mumbai, India, and it has numerous functional domains such as consultation systems, software developments, infrastructural support, and business processes outsourcing."
+	},
+	{
+		"company_name": "DXC",
+		"img_src": "https://pbs.twimg.com/profile_images/1402623872856465408/nJ48rIIj_400x400.jpg",
+		"about": "DXC is an IT services firm that was founded when HPE merged its IT division with CSC. DXC Technology, founded in 2017 as a combination of HPE and CSC, has grown to become one of the world's largest IT firms. As of now, the corporation has broad activities in over 72 nations all over the globe."
+	},
+	{
+		"company_name": "Delloite Consulting",
+		"img_src": "https://pbs.twimg.com/profile_images/1539799565016379392/2h4jury3_400x400.png",
+		"about": "Deloitte is among the world's leading service companies, serving clients worldwide with services ranging from management consulting to IT technology consulting. Deloitte refers to the chain of member companies of Deloitte Touche Tohmatsu Limited, an organization established in the United Kingdom."
+	},
+	{
+		"company_name": "Capgemini",
+		"img_src": "https://pbs.twimg.com/profile_images/1481197280955101184/wfgZ2R5V_400x400.jpg",
+		"about": "Capgemini is among the worlds largest information technology (IT) organizations with a significant global presence. Capgemini, a French company with its headquarters in Paris, with worldwide functioning in over 42 nations"
+	},
+	{
+		"company_name": "Cognizant",
+		"img_src": "https://pbs.twimg.com/profile_images/1544352439930961924/chBU9Nj-_400x400.jpg",
+		"about": "Cognizant is a major Information technology MNC which helps customers in changing their traditional businesses, operations, and technologies to reap the benefits of quickly altering digital technologies. Thus making it one of the leading IT companies in the world."
+	},
+	{
+		"Company_name": "Zensar",
+		"img_src": "https://pbs.twimg.com/profile_images/1545016797350744064/Xxt_JFUA_400x400.jpg",
+		"about": "Zensar is a technology consulting and services company with 10,000 associates in 33 global locations. More than 130 leading enterprises depend on our expertise to be more disruptive, agile, and competitive."
+	}
+]
